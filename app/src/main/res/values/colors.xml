@@ -5,6 +5,7 @@
     <color name="colorPrimary">#00807F</color>
     <color name="colorSecondary">#214E92</color>
     <color name="colorBG">#F3F5F7</color>
+    <color name="colorAddInfo">#24282D</color>
     <color name="colorEmailAndPassword">#373030</color>
     <color name="color_tv_do_not_have_account">#8E9AA6</color>
 
