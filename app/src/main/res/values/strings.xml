@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">OPUS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="password">Password</string>
+    <string name="email">riquelglesias@gmail.ocm</string>
+    <string name="letsStart">Lets start with</string>
+    <string name="login">Log In!</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="are_you_a_job_seeker">Are you a job seeker?</string>
+    <string name="btn_log_in_txt">Log In</string>
 </resources>
