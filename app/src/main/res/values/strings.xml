@@ -20,4 +20,6 @@
     <string name="mobile_no">Mobile No</string>
     <string name="cr_number">CR Number</string>
     <string name="create_password">Create Password</string>
+    <string name="post_a_job">Post a Job</string>
+    <string name="you_did_not_post_any_job_yet">You didn’t post any job yet!</string>
 </resources>
