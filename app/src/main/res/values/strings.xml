@@ -35,4 +35,8 @@
     <string name="enter_your_email">Enter your email which is connected to your ccount,we will send a</string>
     <string name="enter_your_email_">Enter your email</string>
     <string name="riquelglesioas_gmail_com">riquelglesioas@gmail.com</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="otp_desc">Enter the OTP that we have sent to your email. Please do not share</string>
+    <string name="otp_desc_two">the code with anyone</string>
+    <string name="submit_otp">Submit OTP</string>
 </resources>

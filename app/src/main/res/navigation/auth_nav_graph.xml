@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/auth_nav_graph"
-    app:startDestination="@id/loginFragment">
+    app:startDestination="@id/OTPFragment">
 
     <fragment
         android:id="@+id/splashScreenFragment"
@@ -25,5 +25,10 @@
         android:name="com.example.opus.ui.fragments.auth.ForgotPasswordFragment"
         android:label="fragment_forgot_password"
         tools:layout="@layout/fragment_forgot_password" />
+    <fragment
+        android:id="@+id/OTPFragment"
+        android:name="com.example.opus.ui.fragments.auth.OTPFragment"
+        android:label="fragment_o_t_p"
+        tools:layout="@layout/fragment_o_t_p" />
 
 </navigation>
