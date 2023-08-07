@@ -48,7 +48,7 @@
                     android:layout_marginStart="@dimen/_15sdp"
                     android:fontFamily="@font/outfit_medium"
                     android:text="@string/post_job"
-                    android:textColor="@color/colorAddInfo"
+                    android:textColor="@color/colorTitleText"
                     android:textSize="18sp"
                     android:textStyle="bold"
                     app:layout_constraintStart_toEndOf="@+id/ivArrowLeft"

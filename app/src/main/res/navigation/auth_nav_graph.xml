@@ -20,5 +20,10 @@
         android:name="com.example.opus.ui.fragments.auth.RegisterFragment"
         android:label="RegisterFragment"
         tools:layout="@layout/fragment_register" />
+    <fragment
+        android:id="@+id/forgotPasswordFragment"
+        android:name="com.example.opus.ui.fragments.auth.ForgotPasswordFragment"
+        android:label="fragment_forgot_password"
+        tools:layout="@layout/fragment_forgot_password" />
 
 </navigation>
