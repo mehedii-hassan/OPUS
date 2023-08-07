@@ -3,11 +3,16 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/home_nav_graph"
-    app:startDestination="@id/homeFragment">
+    app:startDestination="@id/postJobFragment">
 
     <fragment
         android:id="@+id/homeFragment"
         android:name="com.example.opus.ui.fragments.home.HomeFragment"
         android:label="HomeFragment"
         tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/postJobFragment"
+        android:name="com.example.opus.ui.fragments.home.PostJobFragment"
+        android:label="PostJobFragment"
+        tools:layout="@layout/fragment_post_job" />
 </navigation>

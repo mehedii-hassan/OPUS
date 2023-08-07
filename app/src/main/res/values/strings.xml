@@ -22,4 +22,11 @@
     <string name="create_password">Create Password</string>
     <string name="post_a_job">Post a Job</string>
     <string name="you_did_not_post_any_job_yet">You didn’t post any job yet!</string>
+    <string name="post_job">Post Job</string>
+    <string name="job_title">Job Title</string>
+    <string name="job_summary_optional">Job Summary (Optional)</string>
+    <string name="working_hours">Working Hours</string>
+    <string name="starting_time">Starting Time</string>
+    <string name="expired_date">Expired Date</string>
+    <string name="location">Location</string>
 </resources>
