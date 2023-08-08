@@ -39,4 +39,8 @@
     <string name="otp_desc">Enter the OTP that we have sent to your email. Please do not share</string>
     <string name="otp_desc_two">the code with anyone</string>
     <string name="submit_otp">Submit OTP</string>
+    <string name="create_new_password">Create New Password</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="new_password">New Password</string>
 </resources>

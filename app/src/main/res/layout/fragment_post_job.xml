@@ -16,7 +16,7 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:background="@color/colorBG"
+            android:background="@color/colorAthensGrayBG"
             android:paddingStart="@dimen/_15sdp"
             android:paddingEnd="@dimen/_15sdp"
             app:layout_constraintBottom_toTopOf="@+id/containerBtnCreateAccount"
@@ -48,7 +48,7 @@
                     android:layout_marginStart="@dimen/_15sdp"
                     android:fontFamily="@font/outfit_medium"
                     android:text="@string/post_job"
-                    android:textColor="@color/colorTitleText"
+                    android:textColor="@color/colorSharkTitle"
                     android:textSize="18sp"
                     android:textStyle="bold"
                     app:layout_constraintStart_toEndOf="@+id/ivArrowLeft"

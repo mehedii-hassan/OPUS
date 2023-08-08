@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.OPUS" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <item name="colorPrimary">@color/colorBG</item>
+        <item name="colorPrimary">@color/colorAthensGrayBG</item>
     </style>
 
     <style name="Theme.OPUS" parent="Base.Theme.OPUS" />
@@ -13,7 +13,7 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">50dp</item>
         <item name="android:maxLines">1</item>
-        <item name="android:textColorHint">@color/colorBG</item>
+        <item name="android:textColorHint">@color/colorAthensGrayBG</item>
 
     </style>
 </resources>
