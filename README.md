@@ -20,10 +20,10 @@ Using the mobile or web app the employers will be able to publish jobs on the pl
 <img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/2.jpeg" width="400" height="700" >  
 
 ### Register page
-<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/3.jpeg" width="400" height="700" >  
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/3.png" width="400" height="700" >  
 
 ### Forgot Password
-<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/4.jpeg" width="400" height="700" >  
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/4.png" width="400" height="700" >  
 
 ### Home page
 <img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/5.jpeg" width="400" height="700" > 
