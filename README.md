@@ -14,21 +14,45 @@ Using the mobile or web app the employers will be able to publish jobs on the pl
 
 ## Screenshots 
 ### Splash screen
-<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Screenshot_1.png" width="400" height="700" >  
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/1.jpeg" width="400" height="700" >  
 
 ### Login page
-<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Screenshot_2.png" width="400" height="700" > 
-
-<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Screenshot_3.png" width="400" height="700" >
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/2.jpeg" width="400" height="700" >  
 
 ### Register page
-<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Screenshot_4.png" width="400" height="700" >
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/3.jpeg" width="400" height="700" >  
 
 ### Forgot Password
-<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Screenshot_5.png" width="400" height="700" >
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/4.jpeg" width="400" height="700" >  
 
 ### Home page
-<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Screenshot_6.png" width="400" height="700" >
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/5.jpeg" width="400" height="700" > 
+
+### Menu
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/6.jpeg" width="400" height="700" >  
+
+### Company Profile
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/7.jpeg" width="400" height="700" >  
+
+### Favorite's 
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/8.jpeg" width="400" height="700" >  
+
+### Report issue
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/9.jpeg" width="400" height="700" >  
+
+### All Candidates
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/10.jpeg" width="400" height="700" >  
+
+### Filter
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/11.jpeg" width="400" height="700" >  
+
+### Candidate profile
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/13.jpeg" width="400" height="700" > 
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/12.jpeg" width="400" height="700" > 
+
+### Exit dialog
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/14.jpeg" width="400" height="700" > 
+
 
 
 
