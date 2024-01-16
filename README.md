@@ -43,6 +43,9 @@ Using the mobile or web app the employers will be able to publish jobs on the pl
 ### All Candidates
 <img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/10.jpeg" width="400" height="700" >  
 
+### Selected Candidates
+<img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/10.1.jpeg" width="400" height="700" >  
+
 ### Filter
 <img src="https://github.com/mehedii-hassan/OPUS/blob/main/Images/11.jpeg" width="400" height="700" >  
 
